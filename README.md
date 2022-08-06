@@ -1,2 +1,4 @@
 # pagina.test 
-Es una elaboracion de pagina de lo que el fundador de esta cuenta va aprendiendo durante el tiempo, practicando para que no se nos valla
+Es una elaboracion de pagina de lo que el fundador de esta cuenta va aprendiendo durante el tiempo, 
+practicando para que no se nos valla
+Puedes ver lo que a logrado hacer durante un tiempo.
