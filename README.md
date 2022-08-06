@@ -5,3 +5,5 @@ Puedes ver lo que a logrado hacer durante un tiempo,
  El codigo esta en los archivos.
 
 'Pagina' Web > https://neuryhdez45.github.io/pagina.Test/
+La "pagina web" se actualizara cada cierto tiempo
+Al punto que se podra notar los cambios
