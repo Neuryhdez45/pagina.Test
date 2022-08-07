@@ -6,7 +6,11 @@ Puedes ver lo que a logrado hacer durante un tiempo,
 
 'Pagina' Web > https://neuryhdez45.github.io/pagina.Test/
 La "pagina web" se actualizara cada cierto tiempo
-Al punto que se podra notar los cambios, y ira tomando forma cada vez mas. No hay que excluir la parte de que la pagina es ***Muy cutre*** y para ser un Master hay que tener principios. Estamos añadiendo mas subcategorias.
+Al punto que se podra notar los cambios
+
+ y ira tomando forma cada vez mas. No hay que excluir la parte de que la pagina es ***Muy cutre*** y para ser un Master hay que tener principios. 
+ 
+ Estamos añadiendo mas subcategorias.
 
 SITIO WEB VERIFICADO CON > ***DigiCert Inc***
 ```Update v1.0.0
